@@ -62,7 +62,7 @@ I am a mathematician with a strong focus on **Data Analysis** and **Data Science
 ### **Badak | Data Engineer Trainee**  
 **📅 2024**  
 - Developed scripts in Python.
-- Wrote and optimized SQL queries in BigQuery to extract, transform, and analyze large datasets. 
+- Wrote and optimized SQL queries to extract, transform, and analyze large datasets. 
 - Assisted in building dashboards.
 - Worked with cloud platforms (GCP) and version control tools (GitHub).
 
