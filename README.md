@@ -7,7 +7,7 @@
 **Data Scientist | Data Analyst**
 
 <p align="center">
-  📍 CDMX, México | ✉️ sandrolescieurlopez@gmail.com
+  📍 México City | ✉️ sandrolescieurlopez@gmail.com
 </p>
 
 <p align="center">
