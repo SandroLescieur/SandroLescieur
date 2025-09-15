@@ -12,9 +12,6 @@
 
 <p align="center">
   <a href="https://github.com/SandroLescieur" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://github.com/SandroLescieur" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
@@ -52,14 +49,14 @@ I am a mathematician with a strong focus on **Data Analysis** and **Data Science
 
 ## 💼 Experience
 
-### **Instituto de Ciencias de la Atmósfera, UNAM | Thesis Student**
+### **Instituto de Ciencias de la Atmósfera, UNAM | Data Scientist**
 **📅 May 2025 - Present** 
 - Conducting a thesis on air quality modeling, aiming to reduce the bias of numerical models using Machine Learning techniques.
 - Performing end-to-end data analysis, including collection, cleaning, and exploratory analysis of raw datasets.
 - Applying XGBoost to adjust and improve the predictions of existing numerical models.
 - Interpreting model outputs.
 
-### **Badak | Data Engineer Trainee**  
+### **Badak | Data Engineer**  
 **📅 2024**  
 - Developed scripts in Python.
 - Wrote and optimized SQL queries to extract, transform, and analyze large datasets. 
@@ -116,9 +113,6 @@ I'm always open to new opportunities. Feel free to reach out!
 <p align="center">
   <a href="mailto:sandrolescieurlopez@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/SandroLescieur" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
