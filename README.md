@@ -95,15 +95,6 @@ Bachelor’s degree in Mathematics
 
 ---
 
-## 🔹 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-00599C?style=for-the-badge&logo=R&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -111,6 +102,15 @@ Bachelor’s degree in Mathematics
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandrolescieur&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400" />
 
 </div>
+
+---
+
+## 🔹 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-00599C?style=for-the-badge&logo=R&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
