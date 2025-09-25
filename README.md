@@ -104,6 +104,16 @@ Bachelor’s degree in Mathematics
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandrolescieur&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400" />
+
+</div>
+
+---
+
 ## 📬 Let's Connect!
 
 <div align="center">
